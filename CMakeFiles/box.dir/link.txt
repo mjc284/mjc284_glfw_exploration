@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/box.dir/glad/src/glad.c.o CMakeFiles/box.dir/src/box.cpp.o -o Build/box  -lGL -ldl -lglfw 

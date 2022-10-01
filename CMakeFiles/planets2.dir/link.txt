@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/planets2.dir/glad/src/glad.c.o CMakeFiles/planets2.dir/planets/planets2.cpp.o -o Build/planets2  -lGL -ldl -lglfw 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sample.dir/glad/src/glad.c.o CMakeFiles/sample.dir/sample/sample.cpp.o -o Build/sample  -lGL -ldl -lglfw 

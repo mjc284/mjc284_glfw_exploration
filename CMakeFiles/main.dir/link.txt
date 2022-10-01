@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/glad/src/glad.c.o CMakeFiles/main.dir/Dimensions/main.cpp.o -o main  -lGL -ldl -lglfw 

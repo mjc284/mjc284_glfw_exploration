@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/planets_uniform.dir/glad/src/glad.c.o CMakeFiles/planets_uniform.dir/src/planets/planets_uniform.cpp.o -o Build/planets_uniform  -lGL -ldl -lglfw 

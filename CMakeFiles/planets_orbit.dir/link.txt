@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/planets_orbit.dir/glad/src/glad.c.o CMakeFiles/planets_orbit.dir/src/planets/planets_orbit.cpp.o -o Build/planets_orbit  -lGL -ldl -lglfw 

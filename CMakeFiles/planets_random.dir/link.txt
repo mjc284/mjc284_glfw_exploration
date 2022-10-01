@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/planets_random.dir/glad/src/glad.c.o CMakeFiles/planets_random.dir/src/planets/planets_random.cpp.o -o Build/planets_random  -lGL -ldl -lglfw 

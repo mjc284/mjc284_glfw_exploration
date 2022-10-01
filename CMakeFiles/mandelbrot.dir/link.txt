@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mandelbrot.dir/glad/src/glad.c.o CMakeFiles/mandelbrot.dir/src/mandelbrot.cpp.o -o Build/mandelbrot  -lGL -ldl -lglfw 

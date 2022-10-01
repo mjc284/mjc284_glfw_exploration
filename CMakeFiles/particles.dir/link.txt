@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/particles.dir/glad/src/glad.c.o CMakeFiles/particles.dir/src/particles.cpp.o -o Build/particles  -lGL -ldl -lglfw 
