@@ -1,3 +1,5 @@
+/* Program to simulate planets with random initial velocities. */
+
 #include "../../glad/include/glad/glad.h"
 #include <GLFW/glfw3.h>
 #include <iostream>

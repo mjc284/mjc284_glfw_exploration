@@ -1,3 +1,5 @@
+/* Program to simulate an array of planets. */
+
 #include "../../glad/include/glad/glad.h"
 #include <GLFW/glfw3.h>
 #include <iostream>

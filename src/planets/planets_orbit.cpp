@@ -1,3 +1,5 @@
+/* Program to simulate planets orbiting a central star. */
+
 #include "../../glad/include/glad/glad.h"
 #include <GLFW/glfw3.h>
 #include <iostream>
