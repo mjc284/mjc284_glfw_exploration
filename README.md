@@ -22,41 +22,41 @@ make
 All simulations are located in the "Build" directory as executables. 
 
 ### Box:
-Program to simulate dropping a box with varying collision coefficients.
-Variable perameters: collision_coefficient.
+Program to simulate dropping a box with varying collision coefficients.\
+Variable perameters: collision_coefficient.\
 ![Box](/Screenshots/box.png "Box")
 
 ### Dimensions:
-Program to simulate n-dimensional hypercubes.
-Variable perameters: dimensions.
+Program to simulate n-dimensional hypercubes.\
+Variable perameters: dimensions.\
 ![Dimensions](/Screenshots/dimensions.png "Dimensions")
 
 ### Mandelbrot:
-Program to simulate mandelbrot.
-Variable perameters: play around with the equation.
-Arrow keys: Move around, Spacebar: Zoom in, D-key: Zoom out.
+Program to simulate mandelbrot.\
+Variable perameters: play around with the equation.\
+Arrow keys: Move around, Spacebar: Zoom in, D-key: Zoom out.\
 ![Mandelbrot](/Screenshots/mandelbrot.png "Mandelbrot")
 
 ### Particles:
-Program to simulate mandelbrot.
-Variable perameters: no_particle, particle_radius, collision_coefficient, grav_accel, timestep, random_vel (random_vel is a boolean value to assign initial random velocities or not).
+Program to simulate mandelbrot.\
+Variable perameters: no_particle, particle_radius, collision_coefficient, grav_accel, timestep, random_vel (random_vel is a boolean value to assign initial random velocities or not).\
 ![Particles](/Screenshots/particles.png "Particles")
 
 ### Planets Orbit:
-Program to simulate planets orbiting a central star. Planets interact by newtonian gravity and collide with momentum and mass conservation.
-Variable perameters: num_planets.
-Spacebar: Zoom in, D-key: Zoom out.
+Program to simulate planets orbiting a central star. Planets interact by newtonian gravity and collide with momentum and mass conservation.\
+Variable perameters: num_planets.\
+Spacebar: Zoom in, D-key: Zoom out.\
 ![Planets_Orbit](/Screenshots/planets_orbit.png "Planets_Orbit")
 
 ### Planets Random:
-Program to simulate planets with random initial velocities. Planets interact by newtonian gravity and collide with momentum and mass conservation.
-Variable perameters: num_planets.
-Spacebar: Zoom in, D-key: Zoom out.
+Program to simulate planets with random initial velocities. Planets interact by newtonian gravity and collide with momentum and mass conservation.\
+Variable perameters: num_planets.\
+Spacebar: Zoom in, D-key: Zoom out.\
 ![Planets_Random](/Screenshots/planets_random.png "Planets_Random")
 
 ### Planets Uniform:
-Program to simulate an array of planets. Planets interact by newtonian gravity and collide with momentum and mass conservation.
-Arrow keys: Move around.
+Program to simulate an array of planets. Planets interact by newtonian gravity and collide with momentum and mass conservation.\
+Arrow keys: Move around.\
 ![Planets_Uniform](/Screenshots/planets_uniform.png "Planets_Uniform")
 
 ## Varying Perameters:
