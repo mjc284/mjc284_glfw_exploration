@@ -22,11 +22,13 @@ make
 All simulations are located in the "Build" directory as executables. 
 
 ###Box:
+
 Program to simulate dropping a box with varying collision coefficients.
 Variable perameters: collision_coefficient.
 ![Box](/Screenshots/box.png "Box")
 
 ###Dimensions:
+
 Program to simulate n-dimensional hypercubes.
 Variable perameters: dimensions.
 ![Dimensions](/Screenshots/dimensions.png "Dimensions")
@@ -35,11 +37,11 @@ Variable perameters: dimensions.
 
 ## Varying Perameters:
 For all simulations, change the '#define' parameters of the source files in the src folder to v simulation conditions.
-- Clone the repository at the desired location:
+- Move to the src folder:
 ```
 cd src
 ```
-- Change the '#define' parameters and save.
+- Change the '#define' parameters of desired simulation file and save.
 - Rebuild with cmake:
 ```
 cd ..
