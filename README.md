@@ -38,7 +38,7 @@ Arrow keys: Move around, Spacebar: Zoom in, D-key: Zoom out.\
 ![Mandelbrot](/Screenshots/mandelbrot.png "Mandelbrot")
 
 ### Particles:
-Program to simulate mandelbrot.\
+Program to simulate multiple particles in different conditions.\
 Variable perameters: no_particle, particle_radius, collision_coefficient, grav_accel, timestep, random_vel (random_vel is a boolean value to assign initial random velocities or not).\
 ![Particles](/Screenshots/particles.png "Particles")
 
