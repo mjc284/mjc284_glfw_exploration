@@ -43,19 +43,19 @@ Variable perameters: no_particle, particle_radius, collision_coefficient, grav_a
 ![Particles](/Screenshots/particles.png "Particles")
 
 ### Planets Orbit:
-Program to simulate planets orbiting a central star. Planets interact by newtonian gravity and collide with momentum and mass conservation.\
+Program to simulate planets orbiting a central star. Planets interact by Newtonian gravity and collide with momentum and mass conservation.\
 Variable perameters: num_planets.\
 Spacebar: Zoom in, D-key: Zoom out.\
 ![Planets_Orbit](/Screenshots/planets_orbit.png "Planets_Orbit")
 
 ### Planets Random:
-Program to simulate planets with random initial velocities. Planets interact by newtonian gravity and collide with momentum and mass conservation.\
+Program to simulate planets with random initial velocities. Planets interact by Newtonian gravity and collide with momentum and mass conservation.\
 Variable perameters: num_planets.\
 Spacebar: Zoom in, D-key: Zoom out.\
 ![Planets_Random](/Screenshots/planets_random.png "Planets_Random")
 
 ### Planets Uniform:
-Program to simulate an array of planets. Planets interact by newtonian gravity and collide with momentum and mass conservation.\
+Program to simulate an array of planets. Planets interact by Newtonian gravity and collide with momentum and mass conservation.\
 Arrow keys: Move around.\
 ![Planets_Uniform](/Screenshots/planets_uniform.png "Planets_Uniform")
 
